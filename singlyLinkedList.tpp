@@ -29,7 +29,8 @@ public:
     }
 
     /*
-     * Function purpose:    sets the pointer of current head node to next value in linked-list and points new value to the previous head
+     * Function purpose:    sets the pointer of current head node to next value in linked-list 
+     *                      and points new value to the previous head
      * Parameters:          integer value of new head node
      */
     void insertFirst(T value) {
