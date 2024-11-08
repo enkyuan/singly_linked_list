@@ -1,5 +1,5 @@
-# singly linked list implementation
+# singly linked list
 
 ## about
 
-## usage
+implementation of linked list data structure
